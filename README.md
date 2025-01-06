@@ -1,6 +1,8 @@
 # HealthyMe
 HealthyMe to analyze food data
 
+![Untitled video - Made with Clipchamp (4)](https://github.com/user-attachments/assets/6733d2c1-5ee4-486f-8ea7-3163e11fcfb7)
+
 🥗🍗 Dish Nutrition Unpacked:
 offers a comprehensive analysis of dish nutrition, focusing on carbohydrates, sugars, and dietary goals. Highlights include a total of 2,501g of carbs across dishes like Beef Stir-Fry (40g) and Tacos (35g). Dietary goals are visualized (Lunch: 40%, Dinner: 26.67%, etc.), while sugar content is detailed for items like Pancakes (30g). Averages of protein, fat, and sugar are categorized by goals (e.g., Weight Gain: 115.4g protein, 34.24g fat). Additional features include cholesterol and sodium filters, interactive dish type buttons, and insights tailored for varied dietary needs.
 ![Screenshot 2025-01-04 233020](https://github.com/user-attachments/assets/1fa0f7a0-a4bd-40cd-85e4-2635dd70cea7)
